@@ -1,0 +1,11 @@
+<svg width="80" height="25" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke-width="0" transform="matrix(2.17233 0 0 2.17233 -22.7206 -19.9049)" stroke="#000" font-style="normal" filter="url(#svg_7_blur)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="8" id="svg_7" y="17.93576" x="12.91083" fill="#000000">水车生活</text>
+ </g>
+</svg>
